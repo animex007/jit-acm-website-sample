@@ -10,7 +10,7 @@ const teamMembers = [
   {
     name: "Meher Bhawnani",
     role: "Faculty Coordinator",
-    image: "./images/meher2.jpg",
+    image: "https://drive.google.com/file/d/1zBd_oGwuQOmLkYtGRrO9wY2_vCMTGi8y/view?usp=drive_link",
     github: "https://github.com/Amritakungwani",
     linkedin: "https://www.linkedin.com/in/amrita-kungwani-b6934443/",
     email: "m.bhawnani@jitnagpur.edu.in"
